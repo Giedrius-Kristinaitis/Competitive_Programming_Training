@@ -17,9 +17,11 @@ Yakko thrown a die and got Y points, Wakko — W points. It was Dot's turn. But 
 It is known that Yakko and Wakko are true gentlemen, that's why if they have the same amount of points with Dot, they will let Dot win.
 
 Input
+
 The only line of the input file contains two natural numbers Y and W — the results of Yakko's and Wakko's die rolls.
 
 Output
+
 Output the required probability in the form of irreducible fraction in format «A/B», where A — the numerator, and B — the denominator. If the required probability equals to zero, output «0/1». If the required probability equals to 1, output «1/1».
 
 Examples
