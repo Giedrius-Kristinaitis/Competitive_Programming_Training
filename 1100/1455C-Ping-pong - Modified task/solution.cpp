@@ -2,7 +2,8 @@
  
 using namespace std;
  
-void solve(int a, int b) {
+void solve(int a, int b)
+{
     if (a == b) {
         cout << "0 1" << endl; 
         return;
