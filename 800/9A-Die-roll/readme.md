@@ -1,8 +1,13 @@
-A. Die Roll
+## A. Die Roll
+
 time limit per test: 1 second
+
 memory limit per test: 64 megabytes
+
 input: standard input
+
 output: standard output
+
 Yakko, Wakko and Dot, world-famous animaniacs, decided to rest from acting in cartoons, and take a leave to travel a bit. Yakko dreamt to go to Pennsylvania, his Motherland and the Motherland of his ancestors. Wakko thought about Tasmania, its beaches, sun and sea. Dot chose Transylvania as the most mysterious and unpredictable place.
 
 But to their great regret, the leave turned to be very short, so it will be enough to visit one of the three above named places. That's why Yakko, as the cleverest, came up with a truly genius idea: let each of the three roll an ordinary six-sided die, and the one with the highest amount of points will be the winner, and will take the other two to the place of his/her dreams.
@@ -18,8 +23,11 @@ Output
 Output the required probability in the form of irreducible fraction in format «A/B», where A — the numerator, and B — the denominator. If the required probability equals to zero, output «0/1». If the required probability equals to 1, output «1/1».
 
 Examples
+
 4 2
+
 1/2
 
 Note
+
 Dot will go to Transylvania, if she is lucky to roll 4, 5 or 6 points.
