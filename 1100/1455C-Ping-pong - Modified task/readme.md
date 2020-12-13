@@ -18,11 +18,11 @@ Alice has x stamina and Bob has y. To hit the ball (while serving or returning) 
 
 Sometimes, it's strategically optimal not to return the ball, lose the current play, but save the stamina. On the contrary, when the server commences a play, they have to hit the ball, if they have some stamina left.
 
-# Original part of the task:
+### Original part of the task:
 
  Both Alice and Bob play optimally and want to, firstly, maximize their number of wins and, secondly, minimize the number of wins of their opponent.
 
-# Modified part of the task:
+### Modified part of the task:
 
  Both Alice and Bob play optimally and want to AVOID ANY LOSES if possible while maximizing the number of times they win.
 
